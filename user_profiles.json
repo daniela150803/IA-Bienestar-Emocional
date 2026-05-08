@@ -1,0 +1,297 @@
+{
+  "admin": {
+    "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+    "entries": [
+      {
+        "content": "Estoy muy estresado con los trabajos de la universidad",
+        "date": "2025-05-04T09:30:00.000000",
+        "sentiment": "negativo"
+      },
+      {
+        "content": "No puedo dormir bien por la ansiedad",
+        "date": "2025-05-05T11:45:00.000000",
+        "sentiment": "negativo"
+      },
+      {
+        "content": "Hoy me siento un poco mejor que ayer",
+        "date": "2025-05-06T14:20:00.000000",
+        "sentiment": "neutral"
+      },
+      {
+        "content": "Empecé a hacer ejercicios de respiración y ayudan",
+        "date": "2025-05-07T16:10:00.000000",
+        "sentiment": "positivo"
+      },
+      {
+        "content": "Terminé un proyecto importante, me siento aliviado",
+        "date": "2025-05-08T08:30:00.000000",
+        "sentiment": "positivo"
+      },
+      {
+        "content": "Quedé con amigos y me distrajo de los problemas",
+        "date": "2025-05-09T12:15:00.000000",
+        "sentiment": "positivo"
+      },
+      {
+        "content": "Tuve una recaída de ansiedad hoy",
+        "date": "2025-05-10T10:45:00.000000",
+        "sentiment": "negativo"
+      },
+      {
+        "content": "Retomé mi rutina de ejercicios, ayuda mucho",
+        "date": "2025-05-11T09:30:00.000000",
+        "sentiment": "positivo"
+      },
+      {
+        "content": "Hoy fue un día muy productivo",
+        "date": "2025-05-12T17:20:00.000000",
+        "sentiment": "positivo"
+      },
+      {
+        "content": "Medité por 15 minutos, me siento más tranquilo",
+        "date": "2025-05-13T13:10:00.000000",
+        "sentiment": "positivo"
+      },
+      {
+        "content": "Tengo mucho trabajo pendiente, me abruma",
+        "date": "2025-05-14T11:25:00.000000",
+        "sentiment": "negativo"
+      },
+      {
+        "content": "Organicé mis tareas y ahora se ve más manejable",
+        "date": "2025-05-15T15:40:00.000000",
+        "sentiment": "positivo"
+      },
+      {
+        "content": "Presenté mi examen final mejor de lo esperado",
+        "date": "2025-05-16T18:30:00.000000",
+        "sentiment": "positivo"
+      },
+      {
+        "content": "Estoy aplicando las técnicas de relajación cada día",
+        "date": "2025-05-17T19:45:00.000000",
+        "sentiment": "positivo"
+      },
+      {
+        "content": "Hoy me siento en balance, ni muy bien ni mal",
+        "date": "2025-05-18T12:06:29.602052",
+        "sentiment": "neutral"
+      }
+    ],
+    "last_test_date": "2025-05-18",
+    "test_history": [
+      {
+        "date": "2025-05-04T09:15:00.000000",
+        "answers": {
+          "mood": 1,
+          "energy": 0,
+          "thoughts": 1,
+          "stress": 4,
+          "social": 1
+        },
+        "score": 32
+      },
+      {
+        "date": "2025-05-05T10:30:00.000000",
+        "answers": {
+          "mood": 1,
+          "energy": 1,
+          "thoughts": 2,
+          "stress": 3,
+          "social": 2
+        },
+        "score": 40
+      },
+      {
+        "date": "2025-05-06T11:45:00.000000",
+        "answers": {
+          "mood": 2,
+          "energy": 1,
+          "thoughts": 2,
+          "stress": 3,
+          "social": 2
+        },
+        "score": 43
+      },
+      {
+        "date": "2025-05-07T14:20:00.000000",
+        "answers": {
+          "mood": 2,
+          "energy": 2,
+          "thoughts": 3,
+          "stress": 2,
+          "social": 3
+        },
+        "score": 55
+      },
+      {
+        "date": "2025-05-08T16:10:00.000000",
+        "answers": {
+          "mood": 3,
+          "energy": 2,
+          "thoughts": 3,
+          "stress": 2,
+          "social": 3
+        },
+        "score": 58
+      },
+      {
+        "date": "2025-05-09T08:30:00.000000",
+        "answers": {
+          "mood": 3,
+          "energy": 3,
+          "thoughts": 3,
+          "stress": 2,
+          "social": 4
+        },
+        "score": 65
+      },
+      {
+        "date": "2025-05-10T12:15:00.000000",
+        "answers": {
+          "mood": 4,
+          "energy": 3,
+          "thoughts": 4,
+          "stress": 1,
+          "social": 4
+        },
+        "score": 75
+      },
+      {
+        "date": "2025-05-11T10:45:00.000000",
+        "answers": {
+          "mood": 3,
+          "energy": 2,
+          "thoughts": 3,
+          "stress": 1,
+          "social": 3
+        },
+        "score": 60
+      },
+      {
+        "date": "2025-05-12T09:30:00.000000",
+        "answers": {
+          "mood": 4,
+          "energy": 4,
+          "thoughts": 4,
+          "stress": 0,
+          "social": 4
+        },
+        "score": 82
+      },
+      {
+        "date": "2025-05-13T17:20:00.000000",
+        "answers": {
+          "mood": 4,
+          "energy": 3,
+          "thoughts": 4,
+          "stress": 1,
+          "social": 4
+        },
+        "score": 75
+      },
+      {
+        "date": "2025-05-14T13:10:00.000000",
+        "answers": {
+          "mood": 4,
+          "energy": 4,
+          "thoughts": 4,
+          "stress": 0,
+          "social": 4
+        },
+        "score": 82
+      },
+      {
+        "date": "2025-05-15T11:25:00.000000",
+        "answers": {
+          "mood": 3,
+          "energy": 3,
+          "thoughts": 3,
+          "stress": 2,
+          "social": 3
+        },
+        "score": 62
+      },
+      {
+        "date": "2025-05-16T15:40:00.000000",
+        "answers": {
+          "mood": 4,
+          "energy": 4,
+          "thoughts": 4,
+          "stress": 1,
+          "social": 4
+        },
+        "score": 77
+      },
+      {
+        "date": "2025-05-17T18:30:00.000000",
+        "answers": {
+          "mood": 4,
+          "energy": 4,
+          "thoughts": 4,
+          "stress": 0,
+          "social": 4
+        },
+        "score": 82
+      },
+      {
+        "date": "2025-05-18T12:06:29.602052",
+        "answers": {
+          "mood": 4,
+          "energy": 4,
+          "thoughts": 4,
+          "stress": 0,
+          "social": 4
+        },
+        "score": 82
+      }
+    ],
+    "created_at": "2025-05-01T10:00:00.000000"
+  },
+  "": {
+    "password": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "entries": [
+      "Sueño:8;Emoción:neutra;Café:Café;Ejercicio:2 horas;Estres:6",
+      "mal"
+    ],
+    "last_test_date": "2025-05-18",
+    "test_history": [
+      {
+        "date": "2025-05-17T22:08:59.655478",
+        "answers": {
+          "mood": 2,
+          "energy": 1,
+          "thoughts": 2,
+          "stress": 2,
+          "social": 3
+        },
+        "score": 47
+      }
+    ]
+  },
+  "1234": {
+    "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "entries": [
+      "Sueño:;Emoción:;Café:;Ejercicio:;Estres:"
+    ]
+  },
+  "qwert": {
+    "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "entries": [],
+    "test_history": [],
+    "created_at": 1747546613.087663
+  },
+  "qwer": {
+    "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "entries": [],
+    "test_history": [],
+    "created_at": 1747581730.8135722
+  },
+  "admin1": {
+    "password": "25f43b1486ad95a1398e3eeb3d83bc4010015fcc9bedb35b432e00298d5021f7",
+    "entries": [],
+    "test_history": [],
+    "created_at": "2025-05-18T11:43:54.314552",
+    "last_test_date": null
+  }
+}
